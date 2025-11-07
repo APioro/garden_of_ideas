@@ -1,0 +1,11 @@
+body {
+  font-family: system-ui, sans-serif;
+}
+
+p {
+  transition: color 0.2s;
+}
+
+p:hover {
+  color: #000;
+}
