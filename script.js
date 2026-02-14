@@ -27,8 +27,9 @@ const projects = [
     desc: "Pattern from text"
   },
   {
-    image: "photos/logo.jpg",
-    desc: "Experimental typographic grid"
+    image: "photos/unusual-texture-on-image.jpg",
+    hoverImage: "photos/unusual-texture-on-image-2.jpg",
+    desc: "Unusual texture on image"
   },
     {
     image: "photos/logo.jpg",
